@@ -1,0 +1,5 @@
+Project Infinity X 4.0 - xaga (POCO X4 GT) UNOFFICIAL by AKALIorg
+- Initial Android 17 bringup
+- Bypass charging support (kernel + Extra Battery Options)
+- Dolby Atmos + ViPER4AudioFX + MiuiCamera + BCR included
+- OTA updates enabled
