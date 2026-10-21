@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "filename": "Project_Infinity-X-4.1-xaga-21.10.2026-GAPPS-UNOFFICIAL.zip",
-      "download": "https://gitlab.com/ENGRahsepar/ota/-/packages/generic/xaga/17/Project_Infinity-X-4.1-xaga-21.10.2026-GAPPS-UNOFFICIAL.zip",
-      "timestamp": 1792611297,
-      "md5": "8ebe634fe401bb4c50fb8d5e0822bd69",
-      "size": 2604744238,
-      "version": "4.1"
+      "filename": "Project_Infinity-X-4.0-BETA-xaga-DATE-GAPPS-UNOFFICIAL.zip",
+      "download": "https://sourceforge.net/projects/YOUR-SF-PROJECT/files/xaga/17/gapps/Project_Infinity-X-4.0-BETA-xaga-DATE-GAPPS-UNOFFICIAL.zip/download",
+      "timestamp": 0,
+      "md5": "REPLACE_WITH_MD5",
+      "size": 0,
+      "version": "4.0-BETA"
     }
   ]
 }
