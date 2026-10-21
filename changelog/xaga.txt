@@ -1,15 +1,4 @@
-Project Infinity X 4.1 - xaga (POCO X4 GT) UNOFFICIAL by ENGRahsepar
-- Android 17 (A17) bringup, upstream Infinity X 4.x sync
-- MiuiCamera fixed on A17 (app now runs in platform_app_36):
-  * /dev/apusys (MTK APU/NPU) for the Arcsoft super-night engine
-    -> fixes the SIGSEGV (fault addr 0x18, thread CameraSetup)
-    when switching away from Night mode
-  * MTK ISP/BGS HAL + native isphal service -> capture from other
-    apps (IMAGE_CAPTURE) now works
-  * camera post-processing HIDL service (campostproc) properly typed
-  * tombstones keep their map table (crash_dump can read the MTK memfd)
-- IMS/VoLTE: EngineerMode HAL (em_hidl) NOP patch for the A17 RefBase
-  ABI change, libvt_audiotrack_shim for libsink-mtk.so
-- Bypass charging support (kernel + Extra Battery Options)
-- Dolby Atmos + ViPER4AudioFX + MiuiCamera + BCR included
-- OTA updates enabled (hosted on GitLab)
+Synced With Latest Sourse Chages 
+
+Device Cange log : 
+MiuiCamera FIxed
