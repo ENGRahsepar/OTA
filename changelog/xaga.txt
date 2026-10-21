@@ -1,4 +1,4 @@
-Synced With Latest Sourse Chages 
+Synced With Latest Sourse Change's
 
-Device Cange log : 
-MiuiCamera FIxed
+Device Change log : 
+MiuiCamera Fixed
